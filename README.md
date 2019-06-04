@@ -1,4 +1,4 @@
-# Projective Subspace Networks
+# Projective Subspace Networks For Few-Shot Learning
 Paper : https://openreview.net/pdf?id=rkzfuiA9F7
 
 
